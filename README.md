@@ -4,7 +4,7 @@ Windows 10 / 11用のゲーム配布ページです。**GitHubアカウント・
 
 ## 初めて遊ぶ人へ（おすすめ）
 
-[自動更新ランチャーをダウンロード](https://github.com/yamizakura117-max/reos-downloads/releases/download/launcher-v1.0.0/REOSLauncher-Windows-v1.zip)
+[自動更新ランチャーをダウンロード](https://github.com/yamizakura117-max/reos-downloads/releases/download/launcher-v1.1.0/REOSLauncher-Windows-v1.1.zip)
 
 1. ZIPを右クリックして「すべて展開」。
 2. 展開したフォルダ内の `REOSLauncher.exe` を起動。
@@ -25,7 +25,7 @@ ZIPをすべて展開し、`REOS/Reos.exe` を起動してください。`Reos_D
 ## 更新と保存
 
 - ランチャーの保存先は `%LOCALAPPDATA%\REOSLauncher`。
-- 更新後も前のゲーム版を保持し、「前の版に戻す」で切り替えられます。
+- 更新後は現在のゲーム1版だけを残します。「前の版に戻す」は必要なときに直前の版を再ダウンロードします。
 - ゲームのセーブ・設定は更新で削除しません。
 - ランチャーが更新するのはゲーム本体です。ランチャー自体の自己更新は未対応です。
 - この公開リポジトリには配布ファイルと案内だけを置き、ゲームのソースコードは非公開にしています。
