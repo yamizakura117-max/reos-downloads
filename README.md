@@ -14,7 +14,7 @@ Windows 10 / 11用のゲーム配布ページです。**GitHubアカウント・
 
 ## ゲーム一式を直接受け取る
 
-[REOS 2026.11.23.78 ゲーム一式](https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.23.78/REOS-Windows-20261123-Roster78.zip)
+[REOS 2026.11.23.79 ゲーム一式](https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.23.79/REOS-Windows-20261123-Roster79.zip)
 
 ZIPをすべて展開し、`REOS/Reos.exe` を起動してください。`Reos_Data` やDLLも必要なので、EXEだけを抜き出さないでください。直接起動の場合は自動更新されません。
 
