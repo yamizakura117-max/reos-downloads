@@ -1,7 +1,7 @@
 {
-  "version": "2026.11.23.76",
-  "url": "https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.23.76/REOS-Windows-20261123-Roster76.zip",
-  "size": 119424756,
-  "sha256": "25604d9741da5eed87607c71da51bc076516601d2a5aa07099d12832ab99b057",
-  "notes": "トレーニング開始時にキャラが表示されず止まる不具合を修正。\n画面サイズ・全画面・FPS・明るさ・識別配色・音量設定を追加。\n3対3のVS画面、チーム別ゴールカットイン、ゴール・KO演出を更新。\nオンライン対戦は全員このバージョンへ更新してください。\n"
+  "version": "2026.11.23.77",
+  "url": "https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.23.77/REOS-Windows-20261123-Roster77.zip",
+  "size": 119435373,
+  "sha256": "e10fb42212d41c7d122d0e6e1c0b6f0b848147ef39c022168389c6f831a7d887",
+  "notes": "REOS 77：キャラ選択から技の実演、練習BOTの行動切替、接触範囲・コア速度・ダメージ計測を追加。\nコア・自キャラの視認性と一部の予告表示を改善。F8接続診断と技別記録を追加。\nオンライン開始・得点・全快復活・再接続・再対戦を同一PCのRelayで確認。\n友達も同じ77へ更新し、マルチプレイの参加コードで接続してください。"
 }
