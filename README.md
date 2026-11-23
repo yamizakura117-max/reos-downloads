@@ -14,13 +14,13 @@ Windows 10 / 11用のゲーム配布ページです。**GitHubアカウント・
 
 ## ゲーム一式を直接受け取る
 
-[REOS 2026.11.23.77 ゲーム一式](https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.23.77/REOS-Windows-20261123-Roster77.zip)
+[REOS 2026.11.23.78 ゲーム一式](https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.23.78/REOS-Windows-20261123-Roster78.zip)
 
 ZIPをすべて展開し、`REOS/Reos.exe` を起動してください。`Reos_Data` やDLLも必要なので、EXEだけを抜き出さないでください。直接起動の場合は自動更新されません。
 
 ## 友達と対戦する
 
-全員が同じゲームバージョンへ更新して「マルチプレイ」に進みます。ホストが部屋を作り、表示された部屋コードを参加者へ送ります。参加者はコードを入力して `JOIN ROOM`。キャラ・覚醒を選んで準備し、ホストが試合を開始してください。インターネット接続が必要です。
+全員が同じゲームバージョンへ更新して「マルチプレイ」に進みます。ホストが部屋を作り、表示された部屋コードを参加者へ送ります。参加者はコードを入力して `JOIN ROOM`。キャラ・覚醒を選んで確定すると「READY」になります。全員がREADYになったら、ホストが「PLAY」で試合を開始してください。インターネット接続が必要です。
 
 ## 更新と保存
 
