@@ -1,7 +1,7 @@
 {
-  "version": "2026.11.23.79",
-  "url": "https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.23.79/REOS-Windows-20261123-Roster79.zip",
-  "size": 119441479,
-  "sha256": "80acb79efad7d6c232800d824f247e22711133cd6ef0497ad45016599c379823",
-  "notes": "REOS 2026.11.23.79\n\n・Piの「束縛の糸」は、狙った範囲の中で糸が0.4秒かけて閉じ、つかむ瞬間に明るく光ります。\n・Deltaのスライディングは対キャラ基礎120、Etaのダッシュは初回・再入力ともに基礎100です。\n・Epsilonのロケットは1発に変更。基礎ダメージは近距離72、加速後180です。\n・HPが残りわずかなときの吹っ飛びを抑え、連続ヒット時の上限を調整しました。\n\n友達と対戦するときは全員が最新版に更新してください。いつものランチャーを起動すると更新できます。\n"
+  "version": "2026.11.25.80",
+  "url": "https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.25.80/REOS-Windows-20261125-80.zip",
+  "size": 130756526,
+  "sha256": "2a836d03a63ebdce5fafef1c1480bea6927c0d22a73f30133bf8566c082bb69f",
+  "notes": "ゴールバリア4枚を少し大きくして配置を調整。コアの軌跡、Xiの岩壁、Tauの時計音を更新。ヴェラが登場し、Diaのゲートが足元から出るようになりました。"
 }
