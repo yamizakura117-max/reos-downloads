@@ -1,7 +1,7 @@
 {
-  "version": "2026.11.25.82",
-  "url": "https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.25.82/REOS-Windows-20261125-82.zip",
-  "size": 131232556,
-  "sha256": "9c3e5724d35296790ea430d2fd04d8abb41e4ea6fa7afa714ce8835c8336cea7",
-  "notes": "ゴールバリアの上下間隔、Alphaのビーム、Gammaの渦、ヴェラの入力・槍・軍馬を調整し、全22体の顔アイコンを追加。"
+  "version": "2026.11.25.83",
+  "url": "https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.25.83/REOS-Windows-20261125-83.zip",
+  "size": 131237968,
+  "sha256": "735f9e4e016ca836ce00a14a9742325ba7da350f5a7ad1b1954b3be120a945d5",
+  "notes": "パーティーロビー、準備表示、コードのコピー、ゲームパッドのボタン変更、技の種類に応じた覚醒、ヴェラの騎乗・下馬スキルを更新。パーティー間の自動対戦とランクポイントはUnity Cloudでの公開後に利用できます。"
 }
