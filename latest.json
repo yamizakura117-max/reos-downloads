@@ -1,7 +1,7 @@
 {
-  "version": "2026.11.25.80",
-  "url": "https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.25.80/REOS-Windows-20261125-80.zip",
-  "size": 130756526,
-  "sha256": "2a836d03a63ebdce5fafef1c1480bea6927c0d22a73f30133bf8566c082bb69f",
-  "notes": "ゴールバリア4枚を少し大きくして配置を調整。コアの軌跡、Xiの岩壁、Tauの時計音を更新。ヴェラが登場し、Diaのゲートが足元から出るようになりました。"
+  "version": "2026.11.25.81",
+  "url": "https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.25.81/REOS-Windows-20261125-81.zip",
+  "size": 130759217,
+  "sha256": "0850d2fbec8cee906d902793b5d95ad90e05db109ebdcecbdbb8afcdb89254bb",
+  "notes": "ヴェラの騎乗・下馬スキルと体力バー、Betaの壁と突進、シグマ戦車・タレット・ミミの判定や照準を更新。コントローラー設定、Gammaの渦、Theta、Iota、Kappa、Diaの調整を追加。"
 }
