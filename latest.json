@@ -1,7 +1,7 @@
 {
-  "version": "2026.11.25.81",
-  "url": "https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.25.81/REOS-Windows-20261125-81.zip",
-  "size": 130759217,
-  "sha256": "0850d2fbec8cee906d902793b5d95ad90e05db109ebdcecbdbb8afcdb89254bb",
-  "notes": "ヴェラの騎乗・下馬スキルと体力バー、Betaの壁と突進、シグマ戦車・タレット・ミミの判定や照準を更新。コントローラー設定、Gammaの渦、Theta、Iota、Kappa、Diaの調整を追加。"
+  "version": "2026.11.25.82",
+  "url": "https://github.com/yamizakura117-max/reos-downloads/releases/download/game-2026.11.25.82/REOS-Windows-20261125-82.zip",
+  "size": 131232556,
+  "sha256": "9c3e5724d35296790ea430d2fd04d8abb41e4ea6fa7afa714ce8835c8336cea7",
+  "notes": "ゴールバリアの上下間隔、Alphaのビーム、Gammaの渦、ヴェラの入力・槍・軍馬を調整し、全22体の顔アイコンを追加。"
 }
